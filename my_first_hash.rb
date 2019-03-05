@@ -14,7 +14,7 @@ def retrieval
                   "oil paintings" => 3
                  }
 
-  shipping_manifest[oil paintings] = 3
+  shipping_manifest[oil paintings] = 2
 end
 
 def adding
